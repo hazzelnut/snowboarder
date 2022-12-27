@@ -1,4 +1,4 @@
-# 2D Delivery Driver 
+# 2D Snowboarding Game 
 
 To play the game, go to: https://hazzelnut.itch.io/snowboarder
 
