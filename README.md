@@ -22,7 +22,7 @@ I'm excited to have these new tools under my belt, and I hope to continue using 
 
 ## Moments I captured during development
 
-Me in the beginning, trying combine two separate sprites into one while applying a rigid body.
+Me in the beginning, trying to combine two separate sprites into one while applying a rigid body.
 
 https://user-images.githubusercontent.com/6500879/209716810-988fa960-0cb7-482a-b3b7-531fc155a6ea.mov
 
