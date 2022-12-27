@@ -14,7 +14,7 @@ The most 'wow' moment for me was using the Surface Effector 2D. Instead of using
 
 Learning how to restart a level was also important. Better than asking the user to restart the game or refresh the browser.
 
-The more subtle learnings were around how a class define in a script is also a type. And how we can access a game object's properties in code when we attach a script to it. Just like how we can modify those same properties via the Unity UI inspector.
+The more subtle learnings were around how a class defined in a script is also a type. And how we can access a game object's properties in code when we attach a script to it. Just like how we can modify those same properties via the Unity UI inspector.
 
 I'm excited to have these new tools under my belt, and I hope to continue using them in future games.
 
